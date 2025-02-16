@@ -1,4 +1,5 @@
 # Start-Up Funding Analysis (1995-2015)
+For an interactive dashboard of the Startup data, please refer to the following link: https://public.tableau.com/views/StartupAnalysis_17127524013320/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Introduction
 This project provides a descriptive and predictive analysis of start-up funding from 1995 to 2015. The goal is to analyze how start-ups have evolved, identify trends, and determine which markets have been the most dominant. The project involves both descriptive analysis and predictive modeling to forecast future trends in start-up funding.
 
